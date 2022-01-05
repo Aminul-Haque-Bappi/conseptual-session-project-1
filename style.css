@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.main-head {
+  display: flex;
+}
+.top-heading {
+  text-align: center;
+}
+.basic-heading {
+  font-size: 50px;
+  font-weight: 400;
+  background-image: linear-gradient(45deg, green, red, green);
+  color: whitesmoke;
+}
+.basic-p {
+  color: gray;
+  line-height: 18px;
+}
+.heading-left {
+  width: 50%;
+  padding-left: 10%;
+}
+.heading-right {
+  width: 50%;
+  padding-right: 10%;
+}
+.heading-right img {
+  width: 90%;
+}
+.main-btn {
+  padding: 12px 40px;
+  background-image: linear-gradient(45deg, green, red, green);
+  border: none;
+  border-radius: 5px;
+}
+.main-btn a {
+  color: white;
+  text-decoration: none;
+}
+/* division-sec===================================================================== */
+.division-heading {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.division {
+  width: 18%;
+  box-shadow: 15px 15px 40px grey;
+}
+.division p {
+  padding: 10px 10px;
+}
+.divsion-image {
+  width: 100%;
+}
+.division h1 {
+  text-align: center;
+}
+.all-division {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 100px;
+}
+.btn-bottom {
+  text-align: center;
+}
+.main-foot {
+  text-align: center;
+}
